@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Add / Edit Notes</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_item1">Next</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="title_activity_note_list"> NoteKeeper Application</string>
+</resources>
